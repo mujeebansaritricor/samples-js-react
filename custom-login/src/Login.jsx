@@ -14,6 +14,7 @@ import React, { useEffect, useRef } from 'react';
 import { useOktaAuth } from '@okta/okta-react';
 import OktaSignIn from '@okta/okta-signin-widget';
 import '@okta/okta-signin-widget/dist/css/okta-sign-in.min.css';
+// import "@okta/okta-signin-widget/dist/js/okta-sign-in.min.js"
 import logo from './logo.svg';
 
 import config from './config';
